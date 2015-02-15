@@ -1,0 +1,16 @@
+.tutors-photo-wrapper img {
+	height: 200px;
+	width: auto;
+}
+
+.tutors-photo-wrapper {
+	float: left;
+	padding-right: 15px;
+}
+
+.tutors-list-page-wrapper{
+	border-bottom: 1px white solid;
+	padding-bottom: 15px;
+	margin-top: 15px;
+}
+

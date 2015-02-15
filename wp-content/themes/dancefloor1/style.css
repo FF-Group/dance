@@ -471,6 +471,7 @@ label.screen-reader-text {
 }
 #content {
 	width: 614px;
+	margin-left: 20px!important;
 }
 #content .post {
 	background:url(images/middlenews.png) top left repeat;
